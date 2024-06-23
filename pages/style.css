@@ -1,0 +1,30 @@
+
+
+/* 
+.in::after{
+    content: "";
+    display: block;
+    height: 3px;
+    width: 4%;
+    background-color: #171725;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+} */
+.animated-box {
+ 
+    animation: upDown 5s ease-in-out infinite; 
+  }
+  
+  @keyframes upDown {
+    0% {
+      transform: translateY(0); 
+    }
+    50% {
+      transform: translateY(50px); 
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
