@@ -81,17 +81,17 @@ const GroupSection = () => {
                     <img className='rounded-[10px] ' src="/assits/Images/sidebanr2.jpg" alt="image" />
 
                 </div>
-                <div className="flex flex-col gap-[10px] 2xl:w-[40%] xl:w-[40%] lg:w-[40%] md:w-[60%] sm:w-[100%] w-[100%]" >
-                    <div className=" tracking-[4px] border-b-4 border-[#999] 2xl:w-[30%] xl:w-[30%] lg:w-[30%] md:w-[47%] sm:w-[30%] w-[30%]" data-aos="zoom-in" data-aos-delay="900"><Heading1 type='16' text='GENROAR Team' />
+                <div className="flex flex-col gap-[10px] 2xl:w-[43%] xl:w-[43%] lg:w-[43%] md:w-[60%] sm:w-[100%] w-[100%]" >
+                    <div className=" tracking-[4px] border-b-4 border-[#999] 2xl:w-[30%] xl:w-[30%] lg:w-[30%] md:w-[50%] sm:w-[35%] w-[35%]" data-aos="zoom-in" data-aos-delay="900"><Heading1 type='16' text='Genroar Academy' />
                     </div>
                     <div className="py-[10px]" data-aos="fade-up" data-aos-delay="900">  <Heading1 type='10' text='Transforming Ideas Into Business' />
                     </div>
-                    <div className="py-[10px]" data-aos="fade-up" data-aos-delay="950" ><Heading1 type='5' text='Through our consultation services, we’ve enabled TNC Teams to build a comprehensive platform, serving as a 360° blockchain solution for the Web3 market.' />
+                    <div className="py-[10px]" data-aos="fade-up" data-aos-delay="950" ><Heading1 type='5' text='Through our consultation services, we’ve enabled Genroar Academy to build a comprehensive platform, serving as a 360° web development solution.' />
                     </div>
-                    <div className='flex items-center ' data-aos="fade-up" data-aos-delay="1000"><span className='h-[8px] w-[7px] bg-[#434e58] mr-[5px] rounded-[100%]'></span><Heading1 type='2' text='Provided end-to-end consultation to build a robust 360° blockchain platform' /></div>
+                    <div className='flex items-center ' data-aos="fade-up" data-aos-delay="1000"><span className='h-[8px] w-[7px] bg-[#434e58] mr-[5px] rounded-[100%]'></span><Heading1 type='2' text='Provided end-to-end consultation to build a robust 360° web development platform' /></div>
                     <div className='flex items-center ' data-aos="fade-up" data-aos-delay="1000"> <span className='h-[8px] w-[7px] bg-[#434e58] mr-[5px] rounded-[100%]'></span><Heading1 type='2' text='Streamlined business operations for enhanced efficiency and transparency' /></div>
-                    <div className='flex items-center ' data-aos="fade-up" data-aos-delay="1000"><span className='h-[8px] w-[7px] bg-[#434e58] mr-[5px] rounded-[100%]'></span><Heading1 type='2' text='Accelerated TNC Team’s entry into the Web3 market with strategic guidance' /></div>
-                    <div className='flex items-center ' data-aos="fade-up" data-aos-delay="1000"><span className='h-[8px] w-[7px] bg-[#434e58] mr-[5px] rounded-[100%]'></span><Heading1 type='2' text='Strengthened competitive edge through advanced IT and blockchain solutions' /></div>
+                    <div className='flex items-center ' data-aos="fade-up" data-aos-delay="1000"><span className='h-[8px] w-[7px] bg-[#434e58] mr-[5px] rounded-[100%]'></span><Heading1 type='2' text='Accelerated Genroar Academy’s entry into the market with strategic guidance' /></div>
+                    <div className='flex items-center ' data-aos="fade-up" data-aos-delay="1000"><span className='h-[8px] w-[7px] bg-[#434e58] mr-[5px] rounded-[100%]'></span><Heading1 type='2' text='Strengthened competitive edge through advanced IT and web development solutions' /></div>
                     <div className='flex justify-center items-center bg-gray-900 mt-[10px] rounded-[5px] w-[180px] h-[50px] gap-[10px] hover:cursor-pointer ' data-aos="fade-up" data-aos-delay="1200">
                         <Btn type="2" text="READ MORE" />
                         <svg className='w-[15px]' fill="white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" /></svg>
